@@ -5,6 +5,7 @@
 This project was developed as part of our **MATH 195 Final Project** at Claremont McKenna College under the guidance of Professor Sarah Cannon.  
 We applied **Flip** and **ReCom Markov Chain algorithms** to analyze Alabama's 2020 Presidential Election data.  
 The project aims to compare the outcomes of these algorithms and provide insights into the **partisan fairness** of the state.
+We cover our ensemble analysis and give a brief overview of the field in this [video](https://youtu.be/3uuhrfjYmbw)
 
 ---
 
