@@ -20,7 +20,7 @@ development environment and run the Python Notebooks:
 
 1. **Clone the repository:**
 ```bash
-$ git clone https://github.com/EthanTu2/alabama-2020-ensemble-analysis
+$ git clone https://github.com/EthanTu2/alabama-2020-markov-sim
 ```
 
 2. **Set up your Python environment:**
