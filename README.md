@@ -37,7 +37,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install networkx matplotlib numpy pandas gerrychain geopandas maup tqdm fiona shapely pyproj
 ```
 
-4. **Deactivate the virtual environment once finish**
+4. **Deactivate the virtual environment once finished**
 
 ```bash
 deactivate
