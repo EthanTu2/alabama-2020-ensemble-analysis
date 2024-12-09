@@ -43,5 +43,5 @@ pip install networkx matplotlib numpy pandas gerrychain geopandas maup tqdm fion
 deactivate
 ```
 
-You are now ready to run the Python Notebooks! Let me know if you need help with execution or understanding any of the dependencies.
+You are now ready to run the Python Notebooks!
 
